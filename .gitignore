@@ -1,0 +1,8 @@
+ApproxReLU/
+ApproxReLU_PrivacyPaper/
+ReLU/
+Squared/
+Other Learning Rates/
+Other_Square_Results/
+
+*.npz
